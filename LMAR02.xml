@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Tabla>
+<jugador>
+	<nombre>Gerard Moreno</nombre>
+	<goles>14</goles>
+	<partidos>10</partidos>
+	<club>Villarreal</club>
+</jugador>
+<jugador>
+	<nombre>Lionel Messi</nombre>
+	<goles>12</goles>
+	<partidos>9</partidos>
+	<club>FC Barcelona</club>
+</jugador>
+<jugador>
+	<nombre>Weissman</nombre>
+	<goles>9</goles>
+	<partidos>10</partidos>
+	<club>RC Valladolid</club>
+</jugador>
+<jugador>
+	<nombre>Ansu Fati</nombre>
+	<goles>7</goles>
+	<partidos>9</partidos>
+	<club>FC Barcelona</club>
+</jugador>
+</Tabla>
